@@ -1,0 +1,46 @@
+{
+
+    "FLASH": [
+        "<Bruker:FLASH>",
+        "<User:sliceprofile_FLASH>",
+        "<User:slicprof_inv_mk1>",
+        "<User:sliceprofile_FLASHv3>",
+        "<User:sliceprof_SP_FLASH>",
+        "<User:wgslic_prof_PRESS>",
+        "<User:wgslicprof_sLASER>",
+        "<User:wgslic_prof_PRESS3D>",
+        "<User:sliceprofSP_selFLASH>",
+        "<User:stock_FLASH>",
+        "<User:wgslicprof_sLASER_2>"
+    ],
+
+    "CSI": [
+        "<Bruker:CSI>",
+        "<User:lucaCSIReco>",
+        "<User:lucaCSI>",
+        "<User:lucaCSI2>",
+        "<User:lucaCSI3>",
+        "<User:lucaCSI4>",
+        "<User:geoffCSI>",
+        "<User:csi_fix>"
+    ],
+    "RARE": [
+        "<Bruker:RARE>"
+    ],
+    "NSPECT": [
+        "<Bruker:NSPECT>"
+    ],
+    "Singlepulse": [
+        "<Bruker:SINGLEPULSE>"
+    ],
+
+    "PRESS": [
+        "<User:wg_multi_voxel_PRESS>",
+        "<User:wg_mv_press_reps>",
+        "<Bruker:PRESS>",
+        "<User:wg_mv_press_mk4>"
+    ],
+    "semiLASER": [
+        "<User:wg_mvslaser_self>"
+    ]
+}
